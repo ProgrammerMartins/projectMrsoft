@@ -1,0 +1,32 @@
+body{
+
+}
+.textpart p{
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.image h3{
+    font-size: 24px;
+    text-align: center;
+    text-decoration: underline;
+}
+.image img{
+    margin-left: 300px;
+}
+.textcolor h6{
+    text-align: center;
+    font-size: 24px;
+    text-decoration: underline;
+}
+.listpart p{
+    text-align: center;
+    font-size: 24px;
+    text-decoration: underline;
+}
+.hiddencontent P{
+    text-align: center;
+    font-size: 24px;
+    text-decoration: underline;
+}
